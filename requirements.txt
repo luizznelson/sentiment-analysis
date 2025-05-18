@@ -1,0 +1,9 @@
+pandas
+numpy
+transformers
+torch
+tqdm
+matplotlib
+seaborn
+streamlit
+wordcloud
